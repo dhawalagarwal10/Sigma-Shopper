@@ -1,0 +1,122 @@
+[
+    {
+        "id": "scented_candle",
+        "name": "Scented Candle",
+        "description": "Relaxing scented candle",
+        "price_paise": 39900,
+        "category": "Gifts",
+        "stock": 100,
+        "image_emoji": "🕯️",
+        "upsell_ids": ["gift_wrapping", "premium_box"]
+    },
+    {
+        "id": "photo_frame",
+        "name": "Photo Frame",
+        "description": "Wooden photo frame",
+        "price_paise": 54900,
+        "category": "Gifts",
+        "stock": 100,
+        "image_emoji": "🖼️",
+        "upsell_ids": ["greeting_card", "gift_wrapping"]
+    },
+    {
+        "id": "cushion_set",
+        "name": "Cushion Set",
+        "description": "Comfortable cushion set",
+        "price_paise": 79900,
+        "category": "Gifts",
+        "stock": 100,
+        "image_emoji": "🛋️",
+        "upsell_ids": ["gift_wrapping", "premium_box"]
+    },
+    {
+        "id": "desk_organizer",
+        "name": "Desk Organizer",
+        "description": "Wooden desk organizer",
+        "price_paise": 64900,
+        "category": "Gifts",
+        "stock": 100,
+        "image_emoji": "🗃️",
+        "upsell_ids": ["greeting_card"]
+    },
+    {
+        "id": "chocolate_box",
+        "name": "Chocolate Box",
+        "description": "Assorted chocolates",
+        "price_paise": 29900,
+        "category": "Treats",
+        "stock": 100,
+        "image_emoji": "🍫",
+        "upsell_ids": ["cookie_tin", "gift_wrapping"]
+    },
+    {
+        "id": "cookie_tin",
+        "name": "Cookie Tin",
+        "description": "Butter cookies",
+        "price_paise": 34900,
+        "category": "Treats",
+        "stock": 100,
+        "image_emoji": "🍪",
+        "upsell_ids": ["chocolate_box", "premium_box"]
+    },
+    {
+        "id": "dry_fruit_pack",
+        "name": "Dry Fruit Pack",
+        "description": "Premium dry fruits",
+        "price_paise": 59900,
+        "category": "Treats",
+        "stock": 100,
+        "image_emoji": "🥜",
+        "upsell_ids": ["honey_jar", "premium_box"]
+    },
+    {
+        "id": "tea_sampler",
+        "name": "Tea Sampler",
+        "description": "Assorted teas",
+        "price_paise": 44900,
+        "category": "Treats",
+        "stock": 100,
+        "image_emoji": "🍵",
+        "upsell_ids": ["honey_jar", "cookie_tin"]
+    },
+    {
+        "id": "gift_wrapping",
+        "name": "Gift Wrapping",
+        "description": "Beautiful gift wrap",
+        "price_paise": 4900,
+        "category": "Add-ons",
+        "stock": 1000,
+        "image_emoji": "🎁",
+        "upsell_ids": []
+    },
+    {
+        "id": "greeting_card",
+        "name": "Greeting Card",
+        "description": "Personalized greeting card",
+        "price_paise": 2900,
+        "category": "Add-ons",
+        "stock": 1000,
+        "image_emoji": "💌",
+        "upsell_ids": []
+    },
+    {
+        "id": "premium_box",
+        "name": "Premium Box",
+        "description": "Elegant rigid box",
+        "price_paise": 9900,
+        "category": "Add-ons",
+        "stock": 1000,
+        "image_emoji": "📦",
+        "upsell_ids": []
+    },
+    {
+        "id": "honey_jar",
+        "name": "Honey Jar",
+        "description": "Organic honey",
+        "price_paise": 19900,
+        "category": "Add-ons",
+        "stock": 100,
+        "image_emoji": "🍯",
+        "upsell_ids": []
+    }
+]
